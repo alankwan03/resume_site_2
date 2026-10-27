@@ -41,13 +41,13 @@ export function Projects() {
                     rel="noopener noreferrer"
                     className="inline-flex h-11 items-center gap-2 rounded-lg bg-primary px-5 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 focus-visible:ring-2 focus-visible:ring-ring focus-visible:outline-none"
                   >
-                    Try the alpha
+                    Try the App
                     <ArrowUpRight className="size-4" aria-hidden="true" />
                     <span className="sr-only">(opens in new tab)</span>
                   </a>
                   <p className="mt-3 font-mono text-xs text-muted-foreground">{project.displayUrl}</p>
                   <p className="mt-4 max-w-md border-l-2 border-highlight/60 pl-3 text-sm leading-relaxed text-muted-foreground">
-                    Currently in development and alpha testing — expect rough edges and frequent changes. Feedback is
+                    Currently in development and testing — expect rough edges and frequent changes. Feedback is
                     welcome.
                   </p>
                 </div>
