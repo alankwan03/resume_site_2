@@ -19,14 +19,14 @@ export const profile = {
 export const projects = [
   {
     id: 'flix4us',
-    name: 'Flix4Us',
+    name: 'Flix4us',
     tagline: 'Smart movie & series discovery',
     status: 'In development · Beta',
     version: 'v0.10',
     href: 'https://flix4us-beta.pages.dev/',
     displayUrl: 'flix4us-beta.pages.dev/',
     description:
-      'Flix4Us ends the endless scroll. Choose who’s watching, set a vibe and select your streaming services — Flix4Us curates titles you can actually watch in your region, tuned to your rating, runtime and personal dealbreakers.',
+      Flix4us ends the endless scroll. Choose who’s watching, set a vibe and select your streaming services — Flix4us curates titles you can actually watch in your region, tuned to your rating, runtime and personal dealbreakers.',
     features: [
       'Viewer profiles & watchlists',
       'Vibe-based recommendations',
