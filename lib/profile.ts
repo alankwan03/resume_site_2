@@ -21,10 +21,10 @@ export const projects = [
     id: 'flix4us',
     name: 'Flix4Us',
     tagline: 'Smart movie & series discovery',
-    status: 'In development · Alpha',
-    version: 'v0.09',
-    href: 'https://flix4us-alpha09.pages.dev',
-    displayUrl: 'flix4us-alpha09.pages.dev',
+    status: 'In development · Beta',
+    version: 'v0.10',
+    href: 'https://flix4us-beta.pages.dev/',
+    displayUrl: 'flix4us-beta.pages.dev/',
     description:
       'Flix4Us ends the endless scroll. Choose who’s watching, set a vibe and select your streaming services — Flix4Us curates titles you can actually watch in your region, tuned to your rating, runtime and personal dealbreakers.',
     features: [
